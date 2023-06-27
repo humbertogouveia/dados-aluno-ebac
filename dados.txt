@@ -1,12 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Humberto Gouveia Silva
+-Profissão: Coordenador de Qualidade de Software
+-Cidade: São Paulo
+-O que faz nas horas vagas: Jogo Futebol
+-Feedback sobre o curso Qualidade de Software: O curso é muito completo e mudou minha vida profissional! As aulas são direto ao ponto e extramente didáticas
+-Feedback sobre a plataforma de estudo da EBAC: Moderna e bem intuitiva
 
-Obrigado!!!
+Obrigado professores e equipe EBAC!!!
 
 
